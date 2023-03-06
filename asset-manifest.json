@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/voiceassistant/static/css/main.a37d4fc8.css",
+    "main.js": "/voiceassistant/static/js/main.7e7db776.js",
+    "index.html": "/voiceassistant/index.html",
+    "main.a37d4fc8.css.map": "/voiceassistant/static/css/main.a37d4fc8.css.map",
+    "main.7e7db776.js.map": "/voiceassistant/static/js/main.7e7db776.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a37d4fc8.css",
+    "static/js/main.7e7db776.js"
+  ]
+}
